@@ -42,11 +42,11 @@ class FashionMNISTProcessedDataset(Dataset):
                                      download=True)
 
     def __getitem__(self, i):
-        x, y = self.data[i]
+        x, y = self.data[i]     #x is the image as a tensor, y is the class label (int)
         return x, y
 
     def __len__(self):
-        return len(self.data)
+        return len(self.data)   #number of items in our dataset
 
 
 def plot_training_and_validation(train_losses, validation_losses):
@@ -163,7 +163,7 @@ def main(path_to_fashion_MNIST_dataset='/tmp/fashionmnist',
     if visualize_training == True:
         plot_fig = plot_training_and_validation(
             train_losses, validation_losses)
-        plot_fig.savefig(os.path.join(plot_save_path, "test_and_validation")
+        plot_fig.savefig(os.path.join(plot_save_path, "test_and_validation"))
 
     pass
 
