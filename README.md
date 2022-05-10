@@ -1,7 +1,7 @@
 This repository contains the code for several deep learning projects. All projects are implemented 
 in PyTorch and presuppose that the user has a cuda-enabled GPU.
 
-(c) Michael Mortenson
+(c) Michael Mortenson 2022
 
 Projects
 --------
@@ -25,3 +25,14 @@ weight_initialization_for_CNNs.py - Compare weight initialization strategies for
     - Orthogonal : Weights form an orthogonal set. Orthogonal set created via 
         singular value decomposition. (https://arxiv.org/abs/1312.6120)
     
+<<<<<<< Updated upstream:README.md
+=======
+
+Unet_cancer_detection.py 
+    """
+    Custom U-net architecture. 
+    Based on architecture from paper (https://arxiv.org/pdf/1505.04597.pdf)
+
+    Modified to work with dataset images.
+    """
+>>>>>>> Stashed changes:README.txt
