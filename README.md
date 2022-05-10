@@ -25,8 +25,6 @@ weight_initialization_for_CNNs.py - Compare weight initialization strategies for
     - Orthogonal : Weights form an orthogonal set. Orthogonal set created via 
         singular value decomposition. (https://arxiv.org/abs/1312.6120)
     
-<<<<<<< Updated upstream:README.md
-=======
 
 Unet_cancer_detection.py 
     """
@@ -35,4 +33,7 @@ Unet_cancer_detection.py
 
     Modified to work with dataset images.
     """
->>>>>>> Stashed changes:README.txt
+
+style_transfer.py
+    An alternative application of CNNs, based on the 2016 paper by Gatys et al.
+    (https://arxiv.org/pdf/1508.06576.pdf)
