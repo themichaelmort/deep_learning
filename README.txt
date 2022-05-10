@@ -6,7 +6,7 @@ in PyTorch and presuppose that the user has a cuda-enabled GPU.
 Projects
 --------
 
-image_classification.py - Simple classification
+image_classification.py - Simple 10-category Image Classification
     This project implements a custom vanilla fully-connected neural network with two 1000-neuron 
     layers with ReLu as the activation function. It makes use of the publically available 
     FashionMNIST dataset from torchvision. It defaults to running 100 epochs of training with a 
