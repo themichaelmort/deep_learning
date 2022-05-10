@@ -9,8 +9,6 @@ from torchvision import transforms, datasets
 from tqdm import tqdm
 import os
 
-# Check whether we have cuda (This code presupposes we can use cuda.)
-assert torch.cuda.is_available()
 
 
 # Create Network (extended torch.Module)
@@ -172,4 +170,8 @@ def main(path_to_fashion_MNIST_dataset='/tmp/fashionmnist',
 
 
 if __name__ == "__main__":
+    # Check whether we have cuda (This code presupposes we can use cuda.)
+    assert torch.cuda.is_available()
+    
+    # Do deep learning
     main()
