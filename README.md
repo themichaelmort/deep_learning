@@ -1,3 +1,29 @@
+## Make an Impact: Cancer Detection
+
+> About:
+  Neural Network Type: 
+  Helpful References:
+
+
+## Details Matter: Weight Initialization
+
+Neural Network Type: 
+Helpful References:
+
+
+## Make Something New : Style Transfer
+
+About:
+Neural Network Type: 
+Helpful References:
+
+## Build Bridges : Machine Translation
+
+About:
+Neural Network Type: 
+Helpful References:
+
+
 This repository contains the code for several deep learning projects. All projects are implemented 
 in PyTorch and presuppose that the user has a cuda-enabled GPU.
 
