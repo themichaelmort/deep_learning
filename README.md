@@ -37,3 +37,10 @@ Unet_cancer_detection.py
 style_transfer.py
     An alternative application of CNNs, based on the 2016 paper by Gatys et al.
     (https://arxiv.org/pdf/1508.06576.pdf)
+
+translation_with_attention.py
+    Helpful Resource: 
+    "The Annotated Transformer" : https://github.com/jadore801120/attention-is-all-you-need-pytorch/blob/master/transformer/ 
+    "Attention is all you need" : https://arxiv.org/pdf/1706.03762.pdf
+    Positional Encoding : https://arxiv.org/pdf/1705.03122.pdf
+    Label Smoothing considerations : https://arxiv.org/abs/1512.00567
