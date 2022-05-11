@@ -1,46 +1,51 @@
 # Michael Mortenson - Data Scientist
 Project Portfolio
 
-## [Make an Impact: Cancer Detection](https://github.com/themichaelmort/deep_learning)
+# [Make an Impact: Cancer Detection](https://github.com/themichaelmort/deep_learning)
 * About:
 * Neural Network Type: 
 * Helpful References:
 
 
-## [Details Matter: Weight Initialization](https://github.com/themichaelmort/deep_learning)
+# [Details Matter: Weight Initialization](https://github.com/themichaelmort/deep_learning)
 * About:
 * Neural Network Type: 
 * Helpful References:
 
-### Uniform
+## Uniform
 
-![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Uniform%20Initialization%20Accuracy.png)
-![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Uniform%20Initialization%20Loss.png)
+![](Images/Uniform%20Initialization%20Accuracy.png)
+![](Images/Uniform%20Initialization%20Loss.png)
 
-### Xe
+## Xe
 
-![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Xe%20Initialization%20Accuracy.png)
-![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Xe%20Initialization%20Loss.png)
+![](Images/Xe%20Initialization%20Accuracy.png)
+![](Images/Xe%20Initialization%20Loss.png)
 
-### Orthogonal
+## Orthogonal
 
-![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Orthogonal%20Initialization%20Accuracy.png)
-![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Orthogonal%20Initialization%20Loss.png)
+![](Images/Orthogonal%20Initialization%20Accuracy.png)
+![](/Images/Orthogonal%20Initialization%20Loss.png)
 
 
-## [Make Something New : Style Transfer](https://github.com/themichaelmort/deep_learning)
+# [Make Something New : Style Transfer](https://github.com/themichaelmort/deep_learning)
+* About:
+* Neural Network Type: 
+* Helpful References:
+
+### Content Image
+![](Images/content_image.jpg)
+
+### Style Image
+![](Images/style_image.jpg)
+
+# [Build Bridges : Machine Translation](https://github.com/themichaelmort/deep_learning)
 * About:
 * Neural Network Type: 
 * Helpful References:
 
 
-## [Build Bridges : Machine Translation](https://github.com/themichaelmort/deep_learning)
-* About:
-* Neural Network Type: 
-* Helpful References:
-
-
-## [Dig Deeper : Geoacoustic Inversion](https://scholarsarchive.byu.edu/etd/9488/)
+# [Dig Deeper : Geoacoustic Inversion](https://scholarsarchive.byu.edu/etd/9488/)
 * About:
 * Neural Network Type: 
 * Helpful References:
