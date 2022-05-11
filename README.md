@@ -6,6 +6,7 @@ Project Portfolio
 * Neural Network Type: 
 * Helpful References:
 
+![](gifs/cancer_detector.gif)
 
 # [Details Matter: Weight Initialization](https://github.com/themichaelmort/deep_learning)
 * About:
@@ -39,11 +40,15 @@ Project Portfolio
 ### Style Image
 ![](Images/style_image.jpg)
 
+![](gifs/style_transfer.gif)
+
+
 # [Build Bridges : Machine Translation](https://github.com/themichaelmort/deep_learning)
 * About:
 * Neural Network Type: 
 * Helpful References:
 
+![](gifs/Machine-Translation.gif)
 
 # [Dig Deeper : Geoacoustic Inversion](https://scholarsarchive.byu.edu/etd/9488/)
 * About:
