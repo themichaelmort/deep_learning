@@ -1,28 +1,54 @@
-## Make an Impact: Cancer Detection
+# Michael Mortenson - Data Scientist
+Project Portfolio
 
-> About:
-  Neural Network Type: 
-  Helpful References:
-
-
-## Details Matter: Weight Initialization
-
-Neural Network Type: 
-Helpful References:
+## [Make an Impact: Cancer Detection](https://github.com/themichaelmort/deep_learning)
+* About:
+* Neural Network Type: 
+* Helpful References:
 
 
-## Make Something New : Style Transfer
+## [Details Matter: Weight Initialization](https://github.com/themichaelmort/deep_learning)
+* About:
+* Neural Network Type: 
+* Helpful References:
 
-About:
-Neural Network Type: 
-Helpful References:
+### Uniform
 
-## Build Bridges : Machine Translation
+![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Uniform%20Initialization%20Accuracy.png)
+![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Uniform%20Initialization%20Loss.png)
 
-About:
-Neural Network Type: 
-Helpful References:
+### Xe
 
+![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Xe%20Initialization%20Accuracy.png)
+![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Xe%20Initialization%20Loss.png)
+
+### Orthogonal
+
+![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Orthogonal%20Initialization%20Accuracy.png)
+![](https://github.com/themichaelmort/deep_learning/blob/main/Images/Orthogonal%20Initialization%20Loss.png)
+
+
+## [Make Something New : Style Transfer](https://github.com/themichaelmort/deep_learning)
+* About:
+* Neural Network Type: 
+* Helpful References:
+
+
+## [Build Bridges : Machine Translation](https://github.com/themichaelmort/deep_learning)
+* About:
+* Neural Network Type: 
+* Helpful References:
+
+
+## [Dig Deeper : Geoacoustic Inversion](https://scholarsarchive.byu.edu/etd/9488/)
+* About:
+* Neural Network Type: 
+* Helpful References:
+
+----------
+##Coursework
+
+##Science & Engineering
 
 This repository contains the code for several deep learning projects. All projects are implemented 
 in PyTorch and presuppose that the user has a cuda-enabled GPU.
